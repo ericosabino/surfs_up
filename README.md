@@ -20,16 +20,16 @@ June Temperatures | December Temperatures
 
 Some results are listed below:
 * The average temp in June is 75F while in December it is 71F, which means it's not very cold in December and business can be ran at that time, on average.
-* The min temp is 64F in June and 56F in December, which indicates a potential drop in ice cream sales and surfers frequency in the colder days.
-* The max temp is 85F in June and 83F in December, which indicates a great weather for both surfing and ince cream sales in both months.
+* The min temp is 64F in June and 56F in December, which indicates a potential drop in ice cream sales and surfers frequency in colder days.
+* The max temp is 85F in June and 83F in December, which indicates a great weather for both surfing and ince cream sales/business in both months.
 
 
 ## Summary
 
-Based only on the weather data, it looks that both June and December are good months to make business in Surf and Ice Cream in Oahu, with an execption for the cold days in December. In order to expand this analysis, additional data could be gathered:
+Based only on the weather data, it looks that both June and December are good months to make business in Surf and Ice Cream in Oahu, with an exception for the cold days in December. In order to expand this analysis, additional data could be gathered:
 
-1. Wind: wind data could determine how the wind affects the variance of the temperature for these months.
+1. Wind data could determine how the wind affects the variance of the temperature for these months.
 
-2. Precipitation: this would give more insights on the number of cloudy days in these months, which could also influence sales.
+2. Precipitation data would give more insights on the number of cloudy days in these months, which could also influence sales.
 
 Besides weather information, I would also collect tourism data to understand what are the periods of the year which there is an increase in the number of tourists, or even the number of bathers on the beach.
